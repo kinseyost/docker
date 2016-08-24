@@ -2,7 +2,7 @@
 
 ## build
 ```
-docker build -t docker-whale
+docker build -t docker-whale .
 ```
 
 ## run
