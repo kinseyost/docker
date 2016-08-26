@@ -1,4 +1,4 @@
-# docker
+#docker
 Playground for learning docker to eventually containerize projects.
 
 ##Important Commands
@@ -18,3 +18,5 @@ Rename an image
 ```
 docker tag <IMAGE_ID> <accountName>/<imageName>:<versionLabel/tag>
 ```
+
+This repo is setup to build automatically on push with the help of [quay.io](quay.io)
