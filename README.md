@@ -19,4 +19,4 @@ Rename an image
 docker tag <IMAGE_ID> <accountName>/<imageName>:<versionLabel/tag>
 ```
 
-This repo is setup to build automatically on push with the help of [quay.io](quay.io)
+This repo is setup to build automatically on push with the help of [quay.io](https://quay.io)
