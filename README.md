@@ -20,3 +20,4 @@ docker tag <IMAGE_ID> <accountName>/<imageName>:<versionLabel/tag>
 ```
 
 This repo is setup to build automatically on push with the help of [quay.io](https://quay.io)
+The plan is to deploy projects built with the [immutable-redux framework](https://github.com/kinseyost/immutable-redux)
